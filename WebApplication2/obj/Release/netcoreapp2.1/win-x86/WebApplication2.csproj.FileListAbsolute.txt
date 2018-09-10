@@ -1,0 +1,17 @@
+C:\Users\mohankurali\source\repos\WebApplication2\WebApplication2\bin\Release\netcoreapp2.1\win-x86\hostpolicy.dll
+C:\Users\mohankurali\source\repos\WebApplication2\WebApplication2\bin\Release\netcoreapp2.1\win-x86\hostfxr.dll
+C:\Users\mohankurali\source\repos\WebApplication2\WebApplication2\bin\Release\netcoreapp2.1\win-x86\WebApplication2.exe
+C:\Users\mohankurali\source\repos\WebApplication2\WebApplication2\bin\Release\netcoreapp2.1\win-x86\WebApplication2.deps.json
+C:\Users\mohankurali\source\repos\WebApplication2\WebApplication2\bin\Release\netcoreapp2.1\win-x86\WebApplication2.runtimeconfig.json
+C:\Users\mohankurali\source\repos\WebApplication2\WebApplication2\bin\Release\netcoreapp2.1\win-x86\WebApplication2.runtimeconfig.dev.json
+C:\Users\mohankurali\source\repos\WebApplication2\WebApplication2\bin\Release\netcoreapp2.1\win-x86\WebApplication2.dll
+C:\Users\mohankurali\source\repos\WebApplication2\WebApplication2\bin\Release\netcoreapp2.1\win-x86\WebApplication2.pdb
+C:\Users\mohankurali\source\repos\WebApplication2\WebApplication2\obj\Release\netcoreapp2.1\win-x86\WebApplication2.csprojAssemblyReference.cache
+C:\Users\mohankurali\source\repos\WebApplication2\WebApplication2\obj\Release\netcoreapp2.1\win-x86\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\mohankurali\source\repos\WebApplication2\WebApplication2\obj\Release\netcoreapp2.1\win-x86\WebApplication2.RazorAssemblyInfo.cache
+C:\Users\mohankurali\source\repos\WebApplication2\WebApplication2\obj\Release\netcoreapp2.1\win-x86\WebApplication2.RazorAssemblyInfo.cs
+C:\Users\mohankurali\source\repos\WebApplication2\WebApplication2\obj\Release\netcoreapp2.1\win-x86\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\mohankurali\source\repos\WebApplication2\WebApplication2\obj\Release\netcoreapp2.1\win-x86\WebApplication2.AssemblyInfo.cs
+C:\Users\mohankurali\source\repos\WebApplication2\WebApplication2\obj\Release\netcoreapp2.1\win-x86\WebApplication2.RazorTargetAssemblyInfo.cache
+C:\Users\mohankurali\source\repos\WebApplication2\WebApplication2\obj\Release\netcoreapp2.1\win-x86\WebApplication2.dll
+C:\Users\mohankurali\source\repos\WebApplication2\WebApplication2\obj\Release\netcoreapp2.1\win-x86\WebApplication2.pdb
